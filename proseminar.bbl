@@ -1,5 +1,13 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
+
+\bibitem{10.1145/1709886.1709892}
+Holland, S., Bouwer, A.J., Dalgelish, M., Hurtig, T.M.: Feeling the beat where
+  it counts: Fostering multi-limb rhythm skills with the haptic drum kit. In:
+  Proceedings of the Fourth International Conference on Tangible, Embedded, and
+  Embodied Interaction. p. 21–28. TEI ’10, Association for Computing
+  Machinery, New York, NY, USA (2010),
+  \url{https://doi.org/10.1145/1709886.1709892}
 
 \end{thebibliography}
