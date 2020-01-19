@@ -7,6 +7,11 @@ Bouwer, A., Dalgleish, M., Holland, S., et~al.: The haptic ipod: passive
   learning of multi-limb rhythm skills. In: Workshop ‘When Words Fail: What
   Can Music Interaction Tell Us About HCI (2011)
 
+\bibitem{bouwer2013haptic}
+Bouwer, A., Holland, S., Dalgleish, M.: The haptic bracelets: learning
+  multi-limb rhythm skills from haptic stimuli while reading. In: Music and
+  human-computer interaction, pp. 101--122. Springer (2013)
+
 \bibitem{4479984}
 {Grindlay}, G.: Haptic guidance benefits musical motor learning. In: 2008
   Symposium on Haptic Interfaces for Virtual Environment and Teleoperator
@@ -19,5 +24,10 @@ Holland, S., Bouwer, A.J., Dalgelish, M., Hurtig, T.M.: Feeling the beat where
   Embodied Interaction. p. 21–28. TEI ’10, Association for Computing
   Machinery, New York, NY, USA (2010),
   \url{https://doi.org/10.1145/1709886.1709892}
+
+\bibitem{6775447}
+{Lee}, I., {Choi}, S.: Vibrotactile guidance for drumming learning: Method and
+  perceptual assessment. In: 2014 IEEE Haptics Symposium (HAPTICS). pp.
+  147--152 (Feb 2014)
 
 \end{thebibliography}

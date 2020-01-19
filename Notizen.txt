@@ -4,9 +4,8 @@ Seiten
 6	Grundlagen
 2	Haptic Drum Kit
 
-
-
-
+Bildquellen
+hapticdrumkit : http://mcl.open.ac.uk/haptic/
 
 
 
@@ -38,3 +37,43 @@ schlagzeug unerheblich zum lernen von polyphonen rhythmen mit tactile feedback
 haptic drum kit ist haptic guidance not feedback
 nächste version mit Tactors (speziell für haptic entwickelte solenoids) können viele probleme beheben und gibt neue möglichkeiten
 verstellbarkeit, klarere trennung von signalen und größere amplitude und zeitlich genauer
+
+The Haptic iPod: passive learning of multi-limb rhythm skills
+Zwei Versionen: portable Feldversion und Statische Testversion
+4 tactor vibrotactile devices secured to limbs
+statische Version: laptop mit Behring Kopfhörer Verstärkern
+portable Version: vorher aufgenommene 4 track audio mit batteriebetriebenen kopfhörer Verstärkern
+stärkere statische version für tests verwendete
+1 pre test möglichst schwere rhythmen nach audio als referenz
+2 passive learning 2 rhythmen während leseverständnis 30 minuten
+3 spielen der rhythmen von phase 1 mit den passiv gelernten rhythmen Vergleich anhand von genauigkeit, timing, Anzahl Versuche und Fehleranzahl in bestem versucht
+4 Fragebogen mit Erfahrungen und Einstellungen zu haptischer Technologien
+audio und haptik gleich welche trommel zu spielen Ist
+haptik im vorteil, welche Gliedmaße zu benutzen Ist
+haptik und audio als kombination gewünscht
+geteilte Aufmerksamkeit fordert setzen von Priorität, schwerer zu konzentrieren
+wearables über zeit unangenehm
+rhythmus vor dem spielen durchdenken -> reduziert das lernen von falschen patterns
+
+Haptic Guidance System
+
+Vergleich mit Lehrer, der die Hand des Schülers führt, weil verbale Beschreibung kompliziert und nicht genau genug.
+Frage, wie sich die Bewegungsgenauigkeit durch Technologie verbessern Kann.
+Nur ein Freiheitsgrad, da nur präzise Rotation möglich.
+Ziel ist Handgelenksbewegung. Trotzdem viele rhythmische Aufgaben, gerade für Anfänger
+Möglichkeit Bewegung ohne Einschränkung, wie gegenbewegung aufzunehmen.
+Aufgenommene Bewegung kann auch wieder abgespielt werden.
+Unterarmschale und Band für gleiche Position bei der Benutzung.
+Sicherheitsmaßnahmen: Not Aus Knopf und Stangen, um die mögliche Bewegung der Hand nicht zu überschreiten.
+Unterschied zwischen haptischen und audiogesteuerten Lernen.
+Idee: Kombination ist besser als eins alleine
+Vergleich von Timing und Stärke.
+Audio only gespielt vom System
+Haptik nur: mit maschine geführt und Ohrstöpseln und kopfhörer mit Verschleierungsgeräuschen
+kombination aus beidem mit und ohne Ohrstöpsel und Kopfhörer
+Immer unterschiedliche rhythmen, damit nicht schon gelernt
+4 unterschiedliche, nicht triviale rhythmen
+audio wichtig für Timing
+kombination zusätzlich gut, gerade am Anfang
+haptik gut für geschwindigkeit(Stärke)
+Nur Kurzzeitmessungen. Langzeitstudien noch fällig.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  19 JAN 2020 21:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  19 JAN 2020 23:47
 entering extended mode
 **./proseminar.tex
 (proseminar.tex
@@ -253,58 +253,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
- [1
+
+Overfull \hbox (2.8504pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 Keywords:\OT1/cmr/m/n/10 drum learn-ing, rhythm skills, multi-
+limb co-or-di-na-tion, pas-sive learn-
+ []
+
+[1
 
 {C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
-<pictures/hapticdrumkit.jpg, id=13, 1003.75pt x 1337.99875pt>
-File: pictures/hapticdrumkit.jpg Graphic file (type jpg)
-<use pictures/hapticdrumkit.jpg>
-Package pdftex.def Info: pictures/hapticdrumkit.jpg  used on input line 86.
-(pdftex.def)             Requested size: 347.12354pt x 462.71254pt.
+Overfull \hbox (11.66872pt too wide) in paragraph at lines 91--100
+\OT1/cmr/m/n/10 gaben, die ger-ade fur Anfanger wichtig sind. Das Gerat hat 
+nicht nur die Moglichkeit
+ []
 
-Overfull \hbox (2.0715pt too wide) in paragraph at lines 97--100
-\OT1/cmr/m/n/10 zum Hap-tic Drum Kit [3] und beschaftigt sich mit der Frage, o
+[2]
+Overfull \hbox (38.53224pt too wide) in paragraph at lines 103--106
+ \OT1/cmr/bx/n/10 Ergeb-nisse[] \OT1/cmr/m/n/10 Die Auf-nah-men wur-den in zeit
+licher Prazision und Auf-schlaggeschwindigkeit
+ []
+
+
+Overfull \hbox (2.0715pt too wide) in paragraph at lines 120--123
+\OT1/cmr/m/n/10 zum Hap-tic Drum Kit [4] und beschaftigt sich mit der Frage, o
 b sich mehrgliedrige
  []
 
 
-Overfull \hbox (2.3419pt too wide) in paragraph at lines 101--110
+Overfull \hbox (2.3419pt too wide) in paragraph at lines 124--133
  \OT1/cmr/bx/n/10 Auf-bau[] \OT1/cmr/m/n/10 Der Hap-tic iPod ex-istiert in zwei
  ver-schiede-nen Ver-sio-nen. Eine portable
  []
 
-[3] [4 <./pictures/hapticdrumkit.jpg>]
-Overfull \hbox (6.01595pt too wide) in paragraph at lines 120--135
-\OT1/cmr/m/n/10 bro-tac-tile de-vices se-cured to limbs statis-che Ver-sion: la
-p-top mit Behring Kopfhorer
+[3]
+Overfull \hbox (1.27985pt too wide) in paragraph at lines 153--156
+\OT1/cmr/m/n/10 In der Zukunft konnen Hap-tis-che Wear-ables in Gesund-heit, U
+n-ter-hal-tung, Sicher-
  []
 
 
-Overfull \hbox (6.64085pt too wide) in paragraph at lines 141--144
-\OT1/cmr/m/n/10 weit-eren Ge-bi-eten, die noch nicht iden-ti-fiziert und un-ter
--sucht wur-den. Er-weiterung
+Overfull \hbox (13.54381pt too wide) in paragraph at lines 153--156
+\OT1/cmr/m/n/10 durch ver-schiedene Rhyth-men mehr In-for-ma-tione-nen ubertra
+gen. Auer-dem konnen
  []
 
-(proseminar.bbl) [5] (proseminar.aux) ) 
+(proseminar.bbl [4]) [5] (proseminar.aux) ) 
 Here is how much of TeX's memory you used:
- 1949 strings out of 492450
- 27781 string characters out of 3120005
- 102370 words of memory out of 3000000
- 6305 multiletter control sequences out of 15000+200000
+ 1940 strings out of 492450
+ 27559 string characters out of 3120005
+ 103376 words of memory out of 3000000
+ 6300 multiletter control sequences out of 15000+200000
  5765 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,32p,601b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Simon/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Simo
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C
-:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr10.pfb><C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr9.pfb>
-Output written on proseminar.pdf (5 pages, 601742 bytes).
+ 55i,5n,32p,302b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Simon/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/
+Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pf
+b><C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb>
+Output written on proseminar.pdf (5 pages, 99090 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
