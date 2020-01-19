@@ -2,6 +2,16 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
+\bibitem{bouwer2011haptic}
+Bouwer, A., Dalgleish, M., Holland, S., et~al.: The haptic ipod: passive
+  learning of multi-limb rhythm skills. In: Workshop ‘When Words Fail: What
+  Can Music Interaction Tell Us About HCI (2011)
+
+\bibitem{4479984}
+{Grindlay}, G.: Haptic guidance benefits musical motor learning. In: 2008
+  Symposium on Haptic Interfaces for Virtual Environment and Teleoperator
+  Systems. pp. 397--404 (March 2008)
+
 \bibitem{10.1145/1709886.1709892}
 Holland, S., Bouwer, A.J., Dalgelish, M., Hurtig, T.M.: Feeling the beat where
   it counts: Fostering multi-limb rhythm skills with the haptic drum kit. In:

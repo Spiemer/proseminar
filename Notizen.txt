@@ -1,7 +1,40 @@
+Seiten
+1	Titel, Keywords, Abstract
+1	Einleitung
+6	Grundlagen
+2	Haptic Drum Kit
+
+
+
+
+
+
+
+
 Feeling the Beat Where it Counts
+haptic drum kit besteht aus 4 computergesteuerten vibrationsgeräten an Handgelenken und Knöcheln
 Anfänger können schwere Rhythmen nur mit haptischen Stimuli lernen
 Menschen suchen Periodizität egal ob visuell, auditiv oder haptisch
 eine bessere rhythmische Veranlagung könnte älteren Menschen helfen nicht zu fallen
 monophone rhythmen einfach zu lernen durch hören
 polyphone rhythmen zu komplex trotz simpler rhythmen die kombiniert werden
 haptische signale müssen an stellen aufgenommen werden, die der auszuführenden Aktion nahe liegen(gerade bei polyphonie) deshalb sensoren direkt an extremitäten
+3 Modi: nur audio, audio und haptik und nur haptik
+Auch Aufnahme des Probanden und somit Test auf Zeitgenauigkeit
+angenehm zu tragen und wille wieder zu machen
+einfacher im Takt mit audio und audio klarer mitzumachen
+alle bevorzugten kombination
+gutes Gefühl mit vibration im takt zu sein und signal schon im richtigen Körperteil nicht hören und dann denken, was zu bedienen ist
+wunsch sensorenstärke unabhängig einzustellen (haptic masking)
+schwer zu erkennen, wo wiederholung startet, da haptisches feedback immer gleich stark
+schnelle rhythmen lassen feedback verschwimmen
+statt vertikalem lernen (jedes Körperteil für sich) findet paralleles lernen statt
+nur haptik nervig über zeit, nerviges eigengeräusch
+audio bestimmt drum aber nicht limb, haptik bestimmt limb, aber nicht unbedingt drum
+impact of striking drums could sometimes drown out the signal from the vibrotactiles
+deutliche pause zwischen sensoraktivität erforderlich wegen verschwimmen
+variable stärke und größere stärke hilfreich
+schlagzeug unerheblich zum lernen von polyphonen rhythmen mit tactile feedback
+haptic drum kit ist haptic guidance not feedback
+nächste version mit Tactors (speziell für haptic entwickelte solenoids) können viele probleme beheben und gibt neue möglichkeiten
+verstellbarkeit, klarere trennung von signalen und größere amplitude und zeitlich genauer
