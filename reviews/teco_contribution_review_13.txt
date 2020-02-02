@@ -1,0 +1,75 @@
+**/Overall Rating/:
+
+--> Select one of the following ratings:
+----------------------------------------
+
+	accept (2)
+
+----------------------------------------
+
+**Technical content and scientific rigour:
+
+--> Summarize the following aspects:
+----------------------------------------
+	1. Scientific merit: notably scientific rigour, accuracy and correctness.
+	2. Clarity of expression; communication of ideas; readability and discussion of concepts.
+	3. Sufficient discussion of the context of the work, and suitable referencing. 
+----------------------------------------
+Aktuelle Forschung mit immer neuen Entdeckungen
+sehr gut zu lesen und kritische Einstellung zum Thema
+Viele passende Referenzen
+
+**Quality of presentation:
+
+--> Summarize the following aspects:
+----------------------------------------
+	1. Title: Is it adequate and appropriate for the content of the article?
+	2. Abstract: Does it contain the essential information of the article? Is it complete? Is it suitable for inclusion by itself in an abstracting service?
+	3. Motivation: Does the problem considered have a sound motivation? All papers should clearly demonstrate the scientific interest of the results.
+	4. Repetition: Are significant parts of the manuscript repetitive?
+	5. Length: Is the content of the work of sufficient scientific interest to justify its length? 
+	6. Diagrams, figures, tables and captions: Are they essential and clear?
+	7. Text and mathematics: Are they brief but still clear? If you recommend shortening, please suggest what should be omitted.
+	8. Conclusion: Does the paper contain a carefully written conclusion, summarizing what has been learned and why it is interesting and useful?
+----------------------------------------
+1. Title könnte mehr ausgearbeitet werden, indem man mehr auf vorhandene Technologien eingeht und verwendete Wearables vielleicht weiter beschreibt
+2. kein Abstract vorhanden
+3. Klare und starke Motivation
+6. Bild 1 passt gut und verdeutlicht das erklärte, Tabelle sollte richtig gedreht sein und vielleicht einfach als Textabschnitte erklärt werden
+8. Conclusion könnte noch mehr die Arbeit zusammenfassen. Eigene Meinung überwiegt die sachliche Zusammenfassung
+
+**/Contributions/:
+
+Vielzahl an Referenzen, die gut zur Arbeit passen, vielleicht ein paar viele, die nur für einen Satz eingebunden sind, den man auch einer Arbeit zuordnen kann, die schon verwendet wird
+
+**/Strengths/:
+
+Sektion 1 ist einfach und gut zu lesen, schön formuliert und einfach zu verstehen
+Insgesamt gut zu lesen
+
+
+--> Discuss the upper aspects (Contributions, Technical content and scientific rigour and Quality of presentation) in more detail (with exact refences into the manuscript)
+
+**/Weaknesses/:
+
+Annotierte PDF: gelb markiert hat sich seltsam gelesen vielleicht anders formulieren
+Vielleicht anders strukturieren für einen klareren roten Faden
+Vorschlag: 
+1 Introduction 
+2 basics/ basic information 
+	2.1 EEG
+	...
+3 Measurement Data / Measurements
+	Statt Tabelle in einzelnen Abschnitten Erklären
+	3.1 EEG
+4 Processing and Evaluation
+5 Challenges / Goals zusammenführen weil Goals irgendwie ohne Kontext dasteht? zudem Challenges in unterpunkte unterteilen, oder ineinander überführen. 
+			Liest sich abgehackt und sprunghaft
+6 Training Procedure
+7 Wearable Devices (umbenennnen, um optimales Device einzubinden)
+	einzelne Devices (vielleicht mit Bild) näher beschreiben(wenn möglich). Arbeiten beschreiben, in denen die Devices verwendet wurden ( mit welchem Erfolg)
+	7.? optimal Device
+8 Conclusion
+
+
+--> Discuss the upper aspects (Contributions, Technical content and scientific rigour and Quality of presentation) in more detail (with exact refences into the manuscript)
