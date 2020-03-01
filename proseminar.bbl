@@ -1,6 +1,11 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
+
+\bibitem{bennett2004hap}
+Bennett, P.D.: Hap-kit: A haptic interface for a virtual drum-kit. In: The
+  Symposium for Cybernetics Annual Research Projects, University of Reading
+  (2004)
 
 \bibitem{bouwer2011haptic}
 Bouwer, A., Dalgleish, M., Holland, S., et~al.: The haptic ipod: passive
@@ -41,5 +46,9 @@ Kleine, N.: Gesellschaftliche auswirkungen von wearable-technologie. Technische
 {Lee}, I., {Choi}, S.: Vibrotactile guidance for drumming learning: Method and
   perceptual assessment. In: 2014 IEEE Haptics Symposium (HAPTICS). pp.
   147--152 (Feb 2014)
+
+\bibitem{srinivasan1995haptics}
+Srinivasan, M.A.: What is haptics? Laboratory for Human and Machine Haptics:
+  The Touch Lab, Massachusetts Institute of Technology pp. 1--11 (1995)
 
 \end{thebibliography}

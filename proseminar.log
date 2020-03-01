@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  1 MAR 2020 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  1 MAR 2020 23:55
 entering extended mode
 **./proseminar.tex
 (proseminar.tex
@@ -155,6 +155,15 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
 )
+("C:\Users\Simon\AppData\Local\Programs\MiKTeX 2.9\tex/latex/here\here.sty")
+("C:\Users\Simon\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks19
+\float@box=\box55
+\@float@everytoks=\toks20
+\@floatcapt=\box56
+)
 
 LaTeX Warning: Unused global option(s):
     [ngerman].
@@ -162,33 +171,33 @@ LaTeX Warning: Unused global option(s):
 (proseminar.aux)
 \openout1 = `proseminar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 ("C:\Users\Simon\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count119
 \scratchdimen=\dimen127
-\scratchbox=\box55
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count121
+\scratchbox=\box57
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count122
 \MPscratchDim=\dimen128
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks22
 )
 ("C:\Users\Simon\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -250,117 +259,165 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
+(Font)              <5> on input line 9.
 
-Overfull \hbox (2.8504pt too wide) in paragraph at lines 20--22
-\OT1/cmr/bx/n/10 Keywords:\OT1/cmr/m/n/10 drum learn-ing, rhythm skills, multi-
-limb co-or-di-na-tion, pas-sive learn-
+Overfull \hbox (19.24846pt too wide) in paragraph at lines 12--20
+[]\OT1/cmr/m/n/9 Ein Musikin-stru-ment zu Er-ler-nen birgt einen groen Zeitauf
+wand,
+ []
+
+
+Overfull \hbox (3.76599pt too wide) in paragraph at lines 12--20
+\OT1/cmr/m/n/9 den Lern-prozess schneller und in-ter-es-san-ter gestal-ten. Das
+ Schlagzeugspie-
  []
 
 [1
 
 {C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (5.71034pt too wide) in paragraph at lines 54--57
+Overfull \hbox (28.04385pt too wide) in paragraph at lines 55--56
+\OT1/cmr/m/n/10 beruhend, mithilfe des Tastsinns [er-fol-gend]"[6]. Hap-tik ste
+ht also fur die Wahrnehmung
+ []
+
+[2]
+Overfull \hbox (5.71034pt too wide) in paragraph at lines 73--76
 \OT1/cmr/m/n/10 Das Nutzungs-ge-biet von Wear-ables ist sehr weitlaufig wodurc
 h ein ho-her Anspruch
  []
 
 
-Overfull \hbox (9.76593pt too wide) in paragraph at lines 54--57
+Overfull \hbox (20.32152pt too wide) in paragraph at lines 73--76
 \OT1/cmr/m/n/10 Zusatzlich ist das De-sign entschei-dend fur eine in-tu-itive
- und fortwahrende Nutzung. 
+ und fortwahrende Nutzung.[8] 
  []
 
-[2] [3]
-<pictures/hapticdrumkit.jpg, id=16, 1003.75pt x 1337.99875pt>
-File: pictures/hapticdrumkit.jpg Graphic file (type jpg)
-<use pictures/hapticdrumkit.jpg>
-Package pdftex.def Info: pictures/hapticdrumkit.jpg  used on input line 95.
-(pdftex.def)             Requested size: 138.84729pt x 185.07277pt.
-<pictures/hapticdrumkit1.jpg, id=17, 229.60782pt x 230.36063pt>
-File: pictures/hapticdrumkit1.jpg Graphic file (type jpg)
-<use pictures/hapticdrumkit1.jpg>
-Package pdftex.def Info: pictures/hapticdrumkit1.jpg  used on input line 100.
-(pdftex.def)             Requested size: 138.84729pt x 139.3106pt.
-
-Overfull \hbox (11.66872pt too wide) in paragraph at lines 113--122
-\OT1/cmr/m/n/10 gaben, die ger-ade fur Anfanger wichtig sind. Das Gerat hat 
-nicht nur die Moglichkeit
+[3]
+Overfull \hbox (36.44653pt too wide) in paragraph at lines 104--109
+\OT1/cmr/m/n/10 nicht unbe-d-ingt der ex-akt richti-gen Be-we-gung und ist eing
+eschrankt, was Geschwindigkeit
  []
 
-[4 <./pictures/hapticdrumkit.jpg> <./pictures/hapticdrumkit1.jpg>]
-Overfull \hbox (38.53224pt too wide) in paragraph at lines 125--128
- \OT1/cmr/bx/n/10 Ergeb-nisse[] \OT1/cmr/m/n/10 Die Auf-nah-men wur-den in zeit
-licher Prazision und Auf-schlaggeschwindigkeit
- []
-
-<pictures/hapticdrumstick1.png, id=21, 451.6875pt x 530.73282pt>
+[4]
+<pictures/hapticdrumstick1.png, id=19, 451.6875pt x 530.73282pt>
 File: pictures/hapticdrumstick1.png Graphic file (type png)
 <use pictures/hapticdrumstick1.png>
-Package pdftex.def Info: pictures/hapticdrumstick1.png  used on input line 131.
+Package pdftex.def Info: pictures/hapticdrumstick1.png  used on input line 140.
 
 (pdftex.def)             Requested size: 173.56177pt x 203.93999pt.
-<pictures/vibrotactilevest2.jpg, id=22, 1108.14pt x 586.44093pt>
-File: pictures/vibrotactilevest2.jpg Graphic file (type jpg)
-<use pictures/vibrotactilevest2.jpg>
-Package pdftex.def Info: pictures/vibrotactilevest2.jpg  used on input line 139
-.
-(pdftex.def)             Requested size: 347.12354pt x 183.7008pt.
 
-Overfull \hbox (2.0715pt too wide) in paragraph at lines 146--149
-\OT1/cmr/m/n/10 zum Hap-tic Drum Kit [6] und beschaftigt sich mit der Frage, o
-b sich mehrgliedrige
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+ [5]
+[6 <./pictures/hapticdrumstick1.png>]
+Overfull \hbox (30.48824pt too wide) in paragraph at lines 164--168
+\OT1/cmr/m/n/10 Winkeln gefilmt und beobachtet. Nach der Test-phase wurd eine B
+e-fra-gung durchgefuhrt,
  []
 
-[5 <./pictures/hapticdrumstick1.png>]
-Overfull \hbox (2.3419pt too wide) in paragraph at lines 150--159
+<pictures/hapticdrumkit.jpg, id=26, 1003.75pt x 1337.99875pt>
+File: pictures/hapticdrumkit.jpg Graphic file (type jpg)
+<use pictures/hapticdrumkit.jpg>
+Package pdftex.def Info: pictures/hapticdrumkit.jpg  used on input line 184.
+(pdftex.def)             Requested size: 138.84729pt x 185.07277pt.
+<pictures/hapticdrumkit1.jpg, id=27, 229.60782pt x 230.36063pt>
+File: pictures/hapticdrumkit1.jpg Graphic file (type jpg)
+<use pictures/hapticdrumkit1.jpg>
+Package pdftex.def Info: pictures/hapticdrumkit1.jpg  used on input line 190.
+(pdftex.def)             Requested size: 138.84729pt x 139.3106pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (2.3419pt too wide) in paragraph at lines 202--206
  \OT1/cmr/bx/n/10 Auf-bau[] \OT1/cmr/m/n/10 Der Hap-tic iPod ex-istiert in zwei
  ver-schiede-nen Ver-sio-nen. Eine portable
  []
 
-[6 <./pictures/vibrotactilevest2.jpg>]
-Overfull \hbox (1.27985pt too wide) in paragraph at lines 179--182
-\OT1/cmr/m/n/10 In der Zukunft konnen Hap-tis-che Wear-ables in Gesund-heit, U
-n-ter-hal-tung, Sicher-
+
+Overfull \hbox (9.97432pt too wide) in paragraph at lines 208--213
+\OT1/cmr/m/n/10 Rhyth-men vom An-fang wieder-holt wer-den. Die Ergeb-nisse wur-
+den auf Genauigkeit,
  []
 
 
-Overfull \hbox (13.54381pt too wide) in paragraph at lines 179--182
-\OT1/cmr/m/n/10 durch ver-schiedene Rhyth-men mehr In-for-ma-tione-nen ubertra
-gen. Auer-dem konnen
+Overfull \hbox (8.14326pt too wide) in paragraph at lines 215--223
+ \OT1/cmr/bx/n/10 Ergeb-nisse[] \OT1/cmr/m/n/10 Das Ex-per-i-ment zeigte drei b
+eson-dere Ergeb-nisse. Hap-tis-che Fuhrung
  []
 
-(proseminar.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
+[8 <./pictures/hapticdrumkit.jpg> <./pictures/hapticdrumkit1.jpg>]
+Overfull \hbox (13.34926pt too wide) in paragraph at lines 225--226
+\OT1/cmr/m/n/10 Schla-gin-stru-mente eines Schlagzeugs abzu-bilden. Die naturl
+ich egozen-trische Anord-
+ []
+
+
+Overfull \hbox (5.37709pt too wide) in paragraph at lines 225--226
+\OT1/cmr/m/n/10 fen eines bes-timmten Schla-gin-stru-ments. Das Sys-tem verfug
+t uber die Moglichkeit,
+ []
+
+
+Overfull \hbox (2.26593pt too wide) in paragraph at lines 228--232
+\OT1/cmr/m/n/10 Reize, einem Midi-Drum Kit, der vi-bro-tak-tilen Weste, sowie d
+en Knochelbandern.
+ []
+
+[9]
+Overfull \hbox (24.87723pt too wide) in paragraph at lines 248--249
+\OT1/cmr/m/n/10 sig-nifikant die benotigte Iden-ti-fika-tion-szeit und langer
+e neu-ronale []Ubertragungsdistanz
+ []
+
+<pictures/vibrotactilevest2.jpg, id=38, 1108.14pt x 586.44093pt>
+File: pictures/vibrotactilevest2.jpg Graphic file (type jpg)
+<use pictures/vibrotactilevest2.jpg>
+Package pdftex.def Info: pictures/vibrotactilevest2.jpg  used on input line 254
+.
+(pdftex.def)             Requested size: 347.12354pt x 183.7008pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+<pictures/vestpc.png, id=42, 841.64438pt x 358.33875pt>
+File: pictures/vestpc.png Graphic file (type png)
+<use pictures/vestpc.png>
+Package pdftex.def Info: pictures/vestpc.png  used on input line 261.
+(pdftex.def)             Requested size: 347.12354pt x 147.78922pt.
+
+[11 <./pictures/vibrotactilevest2.jpg> <./pictures/vestpc.png>] (proseminar.bbl
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 []\OT1/cmr/m/n/9 Haptik, die. https://www.duden.de/rechtschreibung/Haptik,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
 []\OT1/cmr/m/n/9 haptisch. https://www.duden.de/rechtschreibung/haptisch,
  []
 
-[7]) [8] (proseminar.aux) ) 
+) [13] (proseminar.aux) ) 
 Here is how much of TeX's memory you used:
- 1982 strings out of 492450
- 28634 string characters out of 3120005
- 102385 words of memory out of 3000000
- 6335 multiletter control sequences out of 15000+200000
+ 2065 strings out of 492450
+ 29965 string characters out of 3120005
+ 105812 words of memory out of 3000000
+ 6409 multiletter control sequences out of 15000+200000
  5765 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,32p,1124b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Simon/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Simo
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr9.pfb>
-Output written on proseminar.pdf (8 pages, 1258316 bytes).
+ 55i,7n,32p,1179b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Simon/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Simon/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r9.pfb>
+Output written on proseminar.pdf (13 pages, 1345383 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
