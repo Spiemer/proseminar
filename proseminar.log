@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  19 JAN 2020 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  1 MAR 2020 11:50
 entering extended mode
 **./proseminar.tex
 (proseminar.tex
@@ -262,60 +262,105 @@ limb co-or-di-na-tion, pas-sive learn-
 [1
 
 {C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (11.66872pt too wide) in paragraph at lines 91--100
+Overfull \hbox (5.71034pt too wide) in paragraph at lines 54--57
+\OT1/cmr/m/n/10 Das Nutzungs-ge-biet von Wear-ables ist sehr weitlaufig wodurc
+h ein ho-her Anspruch
+ []
+
+
+Overfull \hbox (9.76593pt too wide) in paragraph at lines 54--57
+\OT1/cmr/m/n/10 Zusatzlich ist das De-sign entschei-dend fur eine in-tu-itive
+ und fortwahrende Nutzung. 
+ []
+
+[2] [3]
+<pictures/hapticdrumkit.jpg, id=16, 1003.75pt x 1337.99875pt>
+File: pictures/hapticdrumkit.jpg Graphic file (type jpg)
+<use pictures/hapticdrumkit.jpg>
+Package pdftex.def Info: pictures/hapticdrumkit.jpg  used on input line 95.
+(pdftex.def)             Requested size: 138.84729pt x 185.07277pt.
+<pictures/hapticdrumkit1.jpg, id=17, 229.60782pt x 230.36063pt>
+File: pictures/hapticdrumkit1.jpg Graphic file (type jpg)
+<use pictures/hapticdrumkit1.jpg>
+Package pdftex.def Info: pictures/hapticdrumkit1.jpg  used on input line 100.
+(pdftex.def)             Requested size: 138.84729pt x 139.3106pt.
+
+Overfull \hbox (11.66872pt too wide) in paragraph at lines 113--122
 \OT1/cmr/m/n/10 gaben, die ger-ade fur Anfanger wichtig sind. Das Gerat hat 
 nicht nur die Moglichkeit
  []
 
-[2]
-Overfull \hbox (38.53224pt too wide) in paragraph at lines 103--106
+[4 <./pictures/hapticdrumkit.jpg> <./pictures/hapticdrumkit1.jpg>]
+Overfull \hbox (38.53224pt too wide) in paragraph at lines 125--128
  \OT1/cmr/bx/n/10 Ergeb-nisse[] \OT1/cmr/m/n/10 Die Auf-nah-men wur-den in zeit
 licher Prazision und Auf-schlaggeschwindigkeit
  []
 
+<pictures/hapticdrumstick1.png, id=21, 451.6875pt x 530.73282pt>
+File: pictures/hapticdrumstick1.png Graphic file (type png)
+<use pictures/hapticdrumstick1.png>
+Package pdftex.def Info: pictures/hapticdrumstick1.png  used on input line 131.
 
-Overfull \hbox (2.0715pt too wide) in paragraph at lines 120--123
-\OT1/cmr/m/n/10 zum Hap-tic Drum Kit [4] und beschaftigt sich mit der Frage, o
+(pdftex.def)             Requested size: 173.56177pt x 203.93999pt.
+<pictures/vibrotactilevest2.jpg, id=22, 1108.14pt x 586.44093pt>
+File: pictures/vibrotactilevest2.jpg Graphic file (type jpg)
+<use pictures/vibrotactilevest2.jpg>
+Package pdftex.def Info: pictures/vibrotactilevest2.jpg  used on input line 139
+.
+(pdftex.def)             Requested size: 347.12354pt x 183.7008pt.
+
+Overfull \hbox (2.0715pt too wide) in paragraph at lines 146--149
+\OT1/cmr/m/n/10 zum Hap-tic Drum Kit [6] und beschaftigt sich mit der Frage, o
 b sich mehrgliedrige
  []
 
-
-Overfull \hbox (2.3419pt too wide) in paragraph at lines 124--133
+[5 <./pictures/hapticdrumstick1.png>]
+Overfull \hbox (2.3419pt too wide) in paragraph at lines 150--159
  \OT1/cmr/bx/n/10 Auf-bau[] \OT1/cmr/m/n/10 Der Hap-tic iPod ex-istiert in zwei
  ver-schiede-nen Ver-sio-nen. Eine portable
  []
 
-[3]
-Overfull \hbox (1.27985pt too wide) in paragraph at lines 153--156
+[6 <./pictures/vibrotactilevest2.jpg>]
+Overfull \hbox (1.27985pt too wide) in paragraph at lines 179--182
 \OT1/cmr/m/n/10 In der Zukunft konnen Hap-tis-che Wear-ables in Gesund-heit, U
 n-ter-hal-tung, Sicher-
  []
 
 
-Overfull \hbox (13.54381pt too wide) in paragraph at lines 153--156
+Overfull \hbox (13.54381pt too wide) in paragraph at lines 179--182
 \OT1/cmr/m/n/10 durch ver-schiedene Rhyth-men mehr In-for-ma-tione-nen ubertra
 gen. Auer-dem konnen
  []
 
-(proseminar.bbl [4]) [5] (proseminar.aux) ) 
+(proseminar.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+[]\OT1/cmr/m/n/9 Haptik, die. https://www.duden.de/rechtschreibung/Haptik,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+[]\OT1/cmr/m/n/9 haptisch. https://www.duden.de/rechtschreibung/haptisch,
+ []
+
+[7]) [8] (proseminar.aux) ) 
 Here is how much of TeX's memory you used:
- 1940 strings out of 492450
- 27559 string characters out of 3120005
- 103376 words of memory out of 3000000
- 6300 multiletter control sequences out of 15000+200000
+ 1982 strings out of 492450
+ 28634 string characters out of 3120005
+ 102385 words of memory out of 3000000
+ 6335 multiletter control sequences out of 15000+200000
  5765 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,32p,302b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Simon/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/
-Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pf
-b><C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr9.pfb>
-Output written on proseminar.pdf (5 pages, 99090 bytes).
+ 55i,7n,32p,1124b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Simon/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Simon/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Simo
+n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Users/Simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr9.pfb>
+Output written on proseminar.pdf (8 pages, 1258316 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

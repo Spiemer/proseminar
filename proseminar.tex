@@ -36,17 +36,32 @@ Lernt man auf diese Weise einfacher und schneller als durch auditives Lernen ode
 
 
 
-%\section{Grundlagen}
-%\subsection{Haptische Wahrnehmung}
+\section{Grundlagen}
+\subsection{Haptik}
+Haptik ist im Duden als die "Lehre vom Tastsinn"\cite{Haptik} definiert, kommt vom griechischen h\'{a}ptein, das für heften, berühren und angreifen steht.Das adjektiv haptisch bedeutet "den Tastsinn, das Tasten betreffend, auf dem Tastsinn beruhend, mithilfe des Tastsinns [erfolgend]"\cite{haptisch}
 %\subsubsection{tactile Sense}
 %\subsubsection{force feedback}
 %\subsection{Haptische Sensoren}
 %Welche haptischen Sensoren gibt es
 %Wie funktionieren diese
 
-%\subsection{Haptic Wearables}
-%In welchen Wearables werden haptische Sensoren verbaut
-%Welche Funktionen werden dadurch verwirklicht bzw. ermöglicht
+\subsection{Wearables}
+"Wearables sind kleine, am Körper getragene Computer, die, verbaut in die Kleidung oder Accessoires, mitlaufen, ohne aktiv bedient werden zu müssen." \cite{kleine2016gesellschaftliche}
+Für Wearables gibt es zahlreiche Definitionsversuche, sodass keine allgemeingültige Definition existiert. In diesen Versuchen lassen sich allerdings ähnliche Merkmale ausmachen. So sind Wearables während des Tragens immer einsatzbereit, können also jederzeit benutzt und wieder ignoriert werden, ohne dass sie abgeschaltet werden müssen. Wearables laufen im Hintergrund und müssen nicht im Mittelpunkt stehen. Der Nutzer kann sich auf sein Gerät konzentrieren, wenn er es benötigt und es läuft sonst im Hintergrund mit. Nebenbei nehmen Wearables druch Sensoren Informationen aus der Umwelt auf und können diese verarbeiten und weiterkommunizieren.
+
+Die wichtigsten Funktionen von Wearables sind Tracking, Monitoring, Communication und Augmentation. Das Tracking beschränkt sich dabei nicht nur auf GPS Koordinaten, sondern auch die Aufnahme von Bewgeungsabläufen, wie Augenbewegungen bei Eye-Trackern oder Armbewegungen um Schritte zu zählen. Beim Monitoring geht es um Vitalfunktionen wie Blutdruck, oder Puls und Verhaltensmuster wie zum Beispiel das Schlafverhalten. Die Kommunikation von Wearables ist nicht nur auf Kommunikation mit dem Nutzer beschränkt sondern schließt auch die Kommunikation mit anderen Wearables, Computern und Programmen ein. So sollen sich Wearables mit anderen Geräten verbinden können, um bestimmte Funktionalitäten zu erfüllen. Zudem entsteht so auch die Möglichkeit von Mensch zu Mensch Interaktionen über Wearables durch Anrufe, Kurznachrichten oder E-Mails. Die letzte große Funktion ist die Augmentation, wobei Wearables durch eingebaute Sensoren die Umwelt aufnehmen und so eine Augmented Reality erschaffen können, um dem Nutzer zur Umwelt passende Zusatzinformationen zur Verfügung zu stellen.
+
+Die Anforderungen an Wearables sind sehr hoch, da sie im Hintergrund ohne besonderen Fokus durch den Nutzer funktionieren sollen. Daher muss der Tragekomfort hoch sein, um langes und unterbewusstes Nutzen zu ermöglichen.
+Das Nutzungsgebiet von Wearables ist sehr weitläufig wodurch ein hoher Anspruch an die Funktionalität geht. Ein Nutzer möchte nicht für jede Tätigkeit ein anderes Wearable tragen müssen, sondern alle Funktionen in einem Gerät haben.
+Zusätzlich ist das Design entscheidend für eine intuitive und fortwährende Nutzung.
+
+Die am weitesten verbreiteten Wearables sind Head-Mounted Display, wie Datenbrillen zum Beispiel Google Glasses oder Hololens, Armbänder und Smart Watches wie Fitnessarmbänder, die Körperfunktionen wärend dem Sport messen oder Smart Watches, die verbunden mit einem Smartphone viele Funktionen des Geräts am Handgelenk bieten. Dazu kommt noch Intelligente Kleidung, die durch eingebaute elektronische Geräte Vitalparameter misst, den Standort überwacht oder den Träger wärmt.
+
+Wearables sind in Eingabe und Ausgabe nur auf die eingebauten Sensoren beschränkt. So können Eingaben über Sprachbefehle durch das Mikrofon, Zeichen über Touchscreen oder Tastatur, Gesten durch Beschleunigungssensoren oder Bilder durch eine Kamera erfolgen. Genauso kann auch die Ausgabe über alle möglichen Kanäle erfolgen. Visuell über einen Bildschirm, auditiv durch Lautsprecher oder verbundene Kopfhörer und haptisch durch Vibration.
+\cite{kleine2016gesellschaftliche}
+
+\subsection{Haptic Wearables}
+
 
 \section{Aktives Lernen mit Haptischen Wearables}
 
@@ -75,10 +90,17 @@ Durch die Gleiche Vibrationsintensität war auch schwer festzustellen, wo der Rh
 Es wurde viel parallel gelernt, statt jede Bewegung alleine.
 Eine neue Version des Haptic Drum Kits mit verbesserten Sensoren, die deutlicher, individuell und zeitlich präziser funktionieren, kann schon viele Probleme der ersten Version beheben.
 
-%\begin{figure}
-%  \includegraphics[width = \textwidth]{pictures/hapticdrumkit}
-%  \caption{Haptic Drum Kit \cite{10.1145/1709886.1709892}}
-%\end{figure}
+\begin{figure}
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width = \textwidth]{pictures/hapticdrumkit}
+    \caption{Haptic Drum Kit \cite{10.1145/1709886.1709892}}
+  \end{minipage}
+  \hspace{0.1\textwidth}
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width = \textwidth]{pictures/hapticdrumkit1}
+    \caption{Vibratoren mit Bändchen und Tasche \cite{10.1145/1709886.1709892}}
+  \end{minipage}
+\end{figure}
 
 \subsection{Haptic Guidance System}
 Graham Grindlay \cite{4479984} vergleicht in seiner Arbeit wie gut sich ein einfacher Rhythmus mit haptischer Führung im Vergleich zu auditiven Lernen, erlernen lässt.
@@ -105,14 +127,18 @@ Die haptische Führung das Lernen der Aufschlaggeschwindigkeit erleichtert hat.
 Da die Studie nur aus Kurzzeitmessungen bestand, lässt sich sagen, dass eine Kombination von auditiven und haptischen Lernen gerade am Anfang von Vorteil ist, um die richtige Bewegung mit der richtigen Geschwindigkeit und zeitlicher Präzision zu vereinen.
 
 
-%\begin{figure}
-%  \includegraphics[width = \textwidth]{pictures/hapticdrumstick1}
-%  \caption{The Haptic Guidance System Hardware \cite{4479984}}
-%\end{figure}
+\begin{figure}
+  \includegraphics[width = 0.5\textwidth]{pictures/hapticdrumstick1}
+  \caption{The Haptic Guidance System Hardware \cite{4479984}}
+\end{figure}
 
 \subsection{vibrotactile vest and ankle bands}
 In Lee und Seungmoon Choi \cite{6775447} verwenden eine Weste mit Vibrationsgeräten und Bänder an den Knöcheln mit Vibratoren um ein komplettes Schlagzeug anzusteuern.
 
+\begin{figure}
+  \includegraphics[width = \textwidth]{pictures/vibrotactilevest2}
+  \caption{Vibrotaktile Weste mit Knöchelbändern und Midi-Drum Kit\cite{6775447}}
+\end{figure}
 
 \section{Passives Lernen durch Haptische Wearables}
 
